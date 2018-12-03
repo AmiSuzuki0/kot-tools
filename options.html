@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Chrome Extension Options</title>
+  <meta http-equiv="content-type" charset="utf-8">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+  <form>
+    <legend>業務時間を設定</legend>
+    <ul>
+      <li><label for="workStart">開始時間</label><input id="workStart" type="text" value="1000"></li>
+      <li><label for="workEnd">終了時間</label><input id="workEnd" type="text" value="1900"></li>
+      <li><label for="lunchtimeStart">休憩開始時間</label><input id="lunchtimeStart" type="text" value="1200"></li>
+      <li><label for="lunchtimeEnd">休憩終了時間</label><input id="lunchtimeEnd" type="text" value="1300"></li>
+    </ul>
+  　<button class="c-button" id="save">保存</button>
+  </form>
+
+  <div id="status"></div>
+
+  <script src="options.js"></script>
+</body>
+</html>
