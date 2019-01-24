@@ -31,7 +31,7 @@
 <img src="https://user-images.githubusercontent.com/13365342/49416793-8ad71b00-f7be-11e8-9944-2767c713938e.png" width="888">  
 <img src="https://user-images.githubusercontent.com/13365342/49416794-8ad71b00-f7be-11e8-937f-e6652eaa2624.png" width="888">  
 
-#### 設定のポップアップで自分の業務時間と休憩時間を入力する。
+#### 設定のモーダルで自分の業務時間と休憩時間を入力する。
 <img src="https://user-images.githubusercontent.com/13365342/49416796-8ad71b00-f7be-11e8-987e-cf42f2bbc843.png" width="888">  
 
 #### 保存をクリック。
