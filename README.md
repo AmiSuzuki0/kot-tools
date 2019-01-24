@@ -24,9 +24,10 @@
 #### ディベロッパーモードをオンにする
 <img src="https://user-images.githubusercontent.com/13365342/49416789-8a3e8480-f7be-11e8-83ce-9679f64c4a0a.png" width="888">  
 
-#### パッケージ化されていない拡張機能を読み込む
-<img src="https://user-images.githubusercontent.com/13365342/49416791-8a3e8480-f7be-11e8-9e86-c3f967345b4d.png" width="888">  
-<img src="https://user-images.githubusercontent.com/13365342/49416792-8ad71b00-f7be-11e8-99c2-d0df39c46e33.png" width="888">  
+#### プラグインを導入する
+任意の場所/kot-set-habit/kot-set-habit.crxのファイルをドラックアンドドロップする
+<img width="458" alt="2019-01-24 11 40 12" src="https://user-images.githubusercontent.com/13365342/51650777-e5c20d00-1fcc-11e9-9a9e-7a66347d6ba9.png">  
+”拡張機能を追加”をする。  
 
 #### ウインドウのurlの隣に表示されるアイコンを"右クリック"して”オプション”を選ぶ
 <img src="https://user-images.githubusercontent.com/13365342/49416793-8ad71b00-f7be-11e8-9944-2767c713938e.png" width="888">  
