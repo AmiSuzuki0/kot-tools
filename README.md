@@ -16,36 +16,21 @@
 
 ## 導入方法
 
-#### この画面上、緑色のclone or downloadボタンからDownload Zipをする。  
-#### zipファイルを適当な場所で解凍する。  
-#### [chrome://extensions/](chrome://extensions/) を開く  
-<img src="https://user-images.githubusercontent.com/13365342/49416788-8a3e8480-f7be-11e8-904c-9f7c608d6d8f.png" width="888">  
-
-#### ディベロッパーモードをオンにする
-<img src="https://user-images.githubusercontent.com/13365342/49416789-8a3e8480-f7be-11e8-83ce-9679f64c4a0a.png" width="888">  
-
-#### プラグインを導入する
-任意の場所/kot-set-habit/kot-set-habit.crxのファイルをドラックアンドドロップする
-<img width="458" alt="2019-01-24 11 40 12" src="https://user-images.githubusercontent.com/13365342/51650777-e5c20d00-1fcc-11e9-9a9e-7a66347d6ba9.png">  
-”拡張機能を追加”をする。  
-
-#### ウインドウのurlの隣に表示されるアイコンを"右クリック"して”オプション”を選ぶ
-<img src="https://user-images.githubusercontent.com/13365342/49416793-8ad71b00-f7be-11e8-9944-2767c713938e.png" width="888">  
-<img src="https://user-images.githubusercontent.com/13365342/49416794-8ad71b00-f7be-11e8-937f-e6652eaa2624.png" width="888">  
-
-#### 設定のモーダルで自分の業務時間と休憩時間を入力する。
-<img src="https://user-images.githubusercontent.com/13365342/49416796-8ad71b00-f7be-11e8-987e-cf42f2bbc843.png" width="888">  
-
-#### 保存をクリック。
-#### キングオブタイムのサイトへログインする。
-#### キングオブタイムの”打刻編集”ページを開く。 
-#### chromeの先ほど追加した拡張機能のアイコンをクリックする。
-<img src="https://user-images.githubusercontent.com/13365342/49416797-8b6fb180-f7be-11e8-852e-aefcb1055ccf.png" width="888">  
-
-#### デフォルトで入れたい業務時間の値が自動で挿入される。
-<img src="https://user-images.githubusercontent.com/13365342/49416798-8b6fb180-f7be-11e8-9c2a-bda7f3c8b001.png" width="888">  
-
-#### 後は簡単！！！！打刻登録をするだけ！（定時ならそのままポチ！）
+1. #### この画面上、緑色のclone or downloadボタンからDownload Zipをする。  
+1. #### zipファイルを適当な場所で解凍する。  
+1. #### [chrome://extensions/](chrome://extensions/) を開く  
+1. #### ディベロッパーモードをオンにする  <img src="https://user-images.githubusercontent.com/13365342/49416789-8a3e8480-f7be-11e8-83ce-9679f64c4a0a.png" width="888">
+1. #### プラグインを導入する
+1. #### 解凍したフォルダ配下/kot-set-habit/kot-set-habit.crxのファイル拡張画面のページにドラックアンドドロップする  <img width="458" alt="2019-01-24 11 40 12" src="https://user-images.githubusercontent.com/13365342/51650777-e5c20d00-1fcc-11e9-9a9e-7a66347d6ba9.png">  
+1. #### ”拡張機能を追加”をする。
+1. #### ウインドウのurlの隣に表示されるアイコンを"右クリック"して”オプション”を選ぶ  <img src="https://user-images.githubusercontent.com/13365342/49416793-8ad71b00-f7be-11e8-9944-2767c713938e.png" width="888">  <img src="https://user-images.githubusercontent.com/13365342/49416794-8ad71b00-f7be-11e8-937f-e6652eaa2624.png" width="888">
+1. #### 設定のモーダルで自分の業務時間と休憩時間を入力する。  <img src="https://user-images.githubusercontent.com/13365342/49416796-8ad71b00-f7be-11e8-987e-cf42f2bbc843.png" width="888">
+1. #### 保存をクリック。
+1. #### キングオブタイムのサイトへログインする。
+1. #### キングオブタイムの”打刻編集”ページを開く。 
+1. #### chromeの先ほど追加した拡張機能のアイコンをクリックする。  <img src="https://user-images.githubusercontent.com/13365342/49416797-8b6fb180-f7be-11e8-852e-aefcb1055ccf.png" width="888">
+1. #### デフォルトで入れたい業務時間の値が自動で挿入される。  <img src="https://user-images.githubusercontent.com/13365342/49416798-8b6fb180-f7be-11e8-9c2a-bda7f3c8b001.png" width="888">  
+1. #### 後は簡単！！！！打刻登録をするだけ！（定時ならそのままポチ！）
 
 ## 注意
 - すでに入力されている項目があるページ（休憩だけ入力した、勤怠の情報をすでに入力した）ではうまく挙動しないので、やらないでください。
