@@ -1,5 +1,5 @@
 # king of time をちょっと便利にするツール
-![kot mov](https://user-images.githubusercontent.com/13365342/51649939-b8c02b00-1fc9-11e9-95b7-a8cc00c61ec4.gif)
+![kot mov](https://user-images.githubusercontent.com/13365342/51651426-2c186b80-1fcf-11e9-96aa-937e5a9b9e94.gif)
 ## これはどんなツール？  
 キングオブタイムで勤怠入力をする際に、業務のベースとなる勤怠の時間をワンクリックもしくはショートカットキー（後記をご覧ください）で入力できるツールです。  
 
