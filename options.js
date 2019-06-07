@@ -25,12 +25,12 @@ function save_options() {
 
 // 設定画面で設定を表示する
 function restore_options() {
-  // デフォルト値は、ここで設定する
+  // デフォルト値設定する
   chrome.storage.sync.get({
-    selected_workStart: 1000,
-    selected_workEnd: 1900,
-    selected_lunchtimeStart: 1300,
-    selected_lunchtimeEnd: 1400,
+    selected_workStart: 0900,
+    selected_workEnd: 1800,
+    selected_lunchtimeStart: 1200,
+    selected_lunchtimeEnd: 1300,
 
   // 保存された値があったら、それを使う
   }, function(items) {

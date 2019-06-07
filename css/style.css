@@ -18,14 +18,19 @@ html {
 body {
   font-size: 1.4rem;
   line-height: 1;
+  margin: 0;
+  padding: 0;
 }
 
 form {
   line-height: 2;
   padding: 16px;
 }
-form legend {
-  font-size: 1.2em;
+
+form h1 {
+  font-size: 1.6em;
+  font-weight: bold;
+  margin: 0;
   text-align: center;
 }
 
@@ -72,7 +77,8 @@ ul li {
 label{
   display: block;
   color: #333;
-  font-size: 12px;
+  font-size: 1.2rem;
+  font-weight: bold;
   line-height: 1;
 }
 
