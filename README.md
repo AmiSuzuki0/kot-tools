@@ -15,14 +15,19 @@
 あとちまちまselect要素をプルダウンするストレスが少し減ります。  
 
 ## 導入方法
+### 簡単にインストールする場合
+1. #### 拡張機能がDLできるchromeアプリの公式サイトに移動[kot-tools](https://chrome.google.com/webstore/detail/kot-set-habit/ceacjbfhiaghpjihgjmpbanjmkffpmpk?hl=ja)
+1. #### "Chrome に追加"ボタンを押す
+1. #### "拡張機能を追加"  <img width="458" alt="2019-01-24 11 40 12" src="https://user-images.githubusercontent.com/13365342/51650777-e5c20d00-1fcc-11e9-9a9e-7a66347d6ba9.png">  
 
+### ファイルから読み込みたい場合。
 1. #### この画面上、緑色のclone or downloadボタンからDownload Zipをする。  
 1. #### zipファイルを適当な場所で解凍する。  
 1. #### [chrome://extensions/](chrome://extensions/) を開く  
 1. #### ディベロッパーモードをオンにする  <img src="https://user-images.githubusercontent.com/13365342/49416789-8a3e8480-f7be-11e8-83ce-9679f64c4a0a.png" width="888">
 1. #### プラグインを導入する
-1. #### 解凍したフォルダ配下/kot-set-habit/kot-set-habit.crxのファイル拡張画面のページにドラックアンドドロップする  <img width="458" alt="2019-01-24 11 40 12" src="https://user-images.githubusercontent.com/13365342/51650777-e5c20d00-1fcc-11e9-9a9e-7a66347d6ba9.png">  
-1. #### ”拡張機能を追加”をする。
+1. #### "パッケージ化されていない拡張機能を読み込む"で解凍したフォルダを選択
+1. #### ”拡張機能を追加”をする。  <img width="458" alt="2019-01-24 11 40 12" src="https://user-images.githubusercontent.com/13365342/51650777-e5c20d00-1fcc-11e9-9a9e-7a66347d6ba9.png">  
 1. #### ウインドウのurlの隣に表示されるアイコンを"右クリック"して”オプション”を選ぶ  <img src="https://user-images.githubusercontent.com/13365342/49416793-8ad71b00-f7be-11e8-9944-2767c713938e.png" width="888">  <img src="https://user-images.githubusercontent.com/13365342/49416794-8ad71b00-f7be-11e8-937f-e6652eaa2624.png" width="888">
 1. #### 設定のモーダルで自分の業務時間と休憩時間を入力する。  <img src="https://user-images.githubusercontent.com/13365342/49416796-8ad71b00-f7be-11e8-987e-cf42f2bbc843.png" width="888">
 1. #### 保存をクリック。
