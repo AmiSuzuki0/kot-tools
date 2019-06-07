@@ -36,7 +36,7 @@
 - 改善要望があればslackではなくissuesにお願いします。※個人的にやってるので時間がある時に改修します。
 - バグ報告もissuesにお願いします。※個人的にやってるので時間がある時に改修します。
 
-# おまけ（というなの効率化）
+# おまけ（効率化）
 
 拡張機能をキーボードショートカット登録する
 [https://yossense.com/extension-shortcut/](https://yossense.com/extension-shortcut/)
