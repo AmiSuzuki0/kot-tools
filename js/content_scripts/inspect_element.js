@@ -25,11 +25,6 @@
     $('#recording_timestamp_hour_4').val(lunchtimeEnd.substr(0,2));
     $('#recording_timestamp_minute_4').val(lunchtimeEnd.substr(2,2));
 
-    $('#recording_timestamp_time_1').select();
-    $('#recording_timestamp_time_2').select();
-    $('#recording_timestamp_time_3').select();
-    $('#recording_timestamp_time_4').select();
-
   });
 
 }).call(this);

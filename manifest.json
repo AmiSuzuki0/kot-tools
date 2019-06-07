@@ -1,7 +1,7 @@
 {
   "name": "kot set habit",
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "1.1",
   "description": "chromeの拡張機能のボタンを押すだけでキングオブタイムの毎日勤怠を入力するデフォルト値を自動で入れます。",
   "icons": {
     "16": "images/icon/icon_16.png",
@@ -31,9 +31,8 @@
     }
   ],
   "permissions": [
-    "tabs",
-    "https://*/*",
-    "http://*/*",
+    "activeTab",
+    "https://s2.kingtime.jp/*",
     "storage",
     "webNavigation"
   ],
