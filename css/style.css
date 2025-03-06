@@ -1,95 +1,101 @@
 @charset "UTF-8";
 @font-face {
-  font-family: Roboto;
-  src: local("Roboto-Regular"), url("../fonts/Roboto-Regular.ttf");
-  font-weight: normal;
+    font-family: Roboto;
+    src: local("Roboto-Regular"), url("../fonts/Roboto-Regular.ttf");
+    font-weight: normal;
 }
 
-body, button {
-  font-family: "Roboto", "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", 'メイリオ', Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body,
+button {
+    font-family: "Roboto", "ヒラギノ角ゴシック Pro", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic",
+        sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 html {
-  font-size: 62.5%;
+    font-size: 62.5%;
 }
 
 body {
-  font-size: 1.4rem;
-  line-height: 1;
-  margin: 0;
-  padding: 0;
+    font-size: 1.4rem;
+    line-height: 1;
+    margin: 0;
+    padding: 0;
 }
 
 form {
-  line-height: 2;
-  padding: 16px;
+    line-height: 2;
+    padding: 16px;
 }
 
 form h1 {
-  font-size: 1.6em;
-  font-weight: bold;
-  margin: 0;
-  text-align: center;
+    font-size: 1.6em;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
 }
 
 form input:focus {
-  outline: none;
+    outline: none;
+}
+
+.mt-24 {
+    margin-top: 24px;
 }
 
 .c-button {
-  outline: none;
-  background: #26a69a;
-  border: none;
-  width: 100%;
-  color: white;
-  padding: 1.5em;
-  font-size: 100%;
-  border-radius: 4px;
-  cursor: pointer;
+    outline: none;
+    background: #26a69a;
+    border: none;
+    width: 100%;
+    color: white;
+    padding: 1.5em;
+    font-size: 100%;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
-.c-button:hover{
-  opacity: 0.8;
-  outline: none;
-  background: #26a69a;
-  background-image: none;
-  border: none;
-  width: 100%;
-  color: white;
-  padding: 1.5em;
-  font-size: 100%;
-  border-radius: 4px;
-  cursor: pointer;
+.c-button:hover {
+    opacity: 0.8;
+    outline: none;
+    background: #26a69a;
+    background-image: none;
+    border: none;
+    width: 100%;
+    color: white;
+    padding: 1.5em;
+    font-size: 100%;
+    border-radius: 4px;
+    cursor: pointer;
 }
 
-ul{
-  margin: 0;
-  padding: 0;
+ul {
+    margin: 0;
+    padding: 0;
 }
 
 ul li {
-  margin-top: 16px;
-  list-style: none;
+    margin-top: 16px;
+    list-style: none;
 }
 
-label{
-  display: block;
-  color: #333;
-  font-size: 1.2rem;
-  font-weight: bold;
-  line-height: 1;
+label {
+    display: block;
+    color: #333;
+    font-size: 1.2rem;
+    font-weight: bold;
+    line-height: 1;
 }
 
-input[type="text"]{
-  margin-top: 8px;
-  width: 100%;
-  box-sizing: border-box;
-  padding: 8px;
-  border: none;
-  border-radius: 4px;
-  font-size: 1.6rem;
-  color: #666;
-  box-shadow:  0 0 10px rgba(0,0,0,0.2);
+input[type="text"] {
+    margin-top: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.6rem;
+    color: #666;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }

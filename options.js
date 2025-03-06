@@ -5,8 +5,6 @@ function save_options() {
     var workEnd = document.getElementById("workEnd").value;
     var lunchtimeStart = document.getElementById("lunchtimeStart").value;
     var lunchtimeEnd = document.getElementById("lunchtimeEnd").value;
-    if (lunchtimeStart) {
-    }
 
     // chromeアカウントと紐づくストレージに保存
     chrome.storage.sync.set(
@@ -37,8 +35,6 @@ function restore_options() {
             selected_workEnd: 1800,
             selected_lunchtimeStart: 1200,
             selected_lunchtimeEnd: 1300,
-
-            // 保存された値があったら、それを使う
         },
         function (items) {
             document.getElementById("workStart").value = items.selected_workStart;
